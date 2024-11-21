@@ -1,0 +1,21 @@
+dialog;sentiment
+Homer Simpson: (ABSENTLY) Can't talk. Robbed. Go hell.;NEGATIVO
+(Simpson Home: Ext. Simpson House - night - establishing);NEUTRO
+Bart Simpson: Dad! We've been robbed!;NEGATIVO
+Lisa Simpson: (SHAKING HIM) Wake up, Dad! Wake up! There was a burglar and he took my saxophone.;NEGATIVO
+Homer Simpson: Woo hoo!;POSITIVO
+Bart Simpson: And our portable TV!;NEGATIVO
+Homer Simpson: (ANNOYED GRUNT);NEGATIVO
+Marge Simpson: And my necklace.;NEGATIVO
+Homer Simpson: Eh, that's no big loss.;NEGATIVO
+Marge Simpson: Homer! That necklace was a priceless Bouvier family heirloom.;NEGATIVO
+Homer Simpson: (SNORTS) Oh, you've probably got a whole drawer full of 'em.;NEGATIVO
+Marge Simpson: (UNCOMFORTABLE) Well... Yes, I do. But they're all heirlooms, too.;NEUTRO
+Bart Simpson: The burglar even took my stamp collection.;NEGATIVO
+Lisa Simpson: (AMUSED) YOU had a stamp collection?;POSITIVO
+Marge Simpson: (LAUGHS UPROARIOUSLY);POSITIVO
+Nelson Muntz: (OVER PHONE) Stamp collection. Haw haw!;NEGATIVO
+Lisa Simpson: (MOANS) Bart's pain is funny, but mine isn't. That saxophone was my one creative outlet. It was the only way I could truly express myself.;NEGATIVO
+Homer Simpson: Shhh, quiet Lisa.;NEUTRO
+Bart Simpson: Hey, the burglar left his calling card.;NEUTRO
+"Marge Simpson: (READING) ""You have just been robbed by The Springfield Cat Burglar""... (MAKES A FACE) Cute.";NEUTRO
