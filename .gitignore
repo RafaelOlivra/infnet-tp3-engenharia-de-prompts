@@ -15,6 +15,7 @@ credentials.json
 .run.*
 .~lock.*
 *.pdf
+*.html
 exports/
 data/large/
 
