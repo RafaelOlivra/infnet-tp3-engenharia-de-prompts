@@ -9,3 +9,5 @@ requests
 load_dotenv
 lxml
 tiktoken
+seaborn
+statsmodels
