@@ -11,3 +11,5 @@ lxml
 tiktoken
 seaborn
 statsmodels
+rouge
+sacrebleu
