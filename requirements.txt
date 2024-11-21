@@ -1,5 +1,10 @@
 jupyterlab
 jupyter
 google-generativeai
+openai
 pandas
 matplotlib
+beautifulsoup4
+requests
+load_dotenv
+lxml
