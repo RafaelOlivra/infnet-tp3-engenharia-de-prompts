@@ -16,6 +16,7 @@ credentials.json
 .~lock.*
 *.pdf
 exports/
+data/large/
 
 # Compiled Python bytecode
 *.py[cod]
